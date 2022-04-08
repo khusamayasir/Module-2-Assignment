@@ -1,10 +1,81 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap");
-
-* {
-    box-sizing: border-box;
+div {
+    width: 100%;
 }
 
-body {
-    font-family: "Poppins", sans-serif;
-    margin: 0;
+.main-heading {
+    text-align: center;
+    font-size: 25px;
+}
+
+.items {
+    position: relative;
+    background-color: rgba(172, 170, 170, 0.904);
+    border: 3px solid black;
+    text-align: left;
+    font-size: 16px;
+    margin: 30px auto;
+    padding: 10px;
+}
+
+.item-heading {
+    border-bottom: 3px solid black;
+    border-left: 3px solid black;
+    position: absolute;
+    text-align: center;
+    font-size: 24px;
+    width: 40%;
+    height: auto;
+    top: -20px;
+    right: -1px;
+}
+
+#item1>h2 {
+    background-color: rgb(224, 105, 105);
+}
+
+#item2>h2 {
+    background-color: rgb(194, 41, 41);
+}
+
+#item3>h2 {
+    background-color: rgb(233, 222, 129);
+}
+
+p {
+    margin: 50px 0 15px 0;
+}
+
+/*Desktop*/
+@media only screen and (min-width:992px) {
+
+    #item1,
+    #item2,
+    #item3 {
+        display: inline-block;
+        width: 25%;
+        margin-left: 4.5%;
+    }
+}
+
+/*Tablet*/
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+    #item1,
+    #item2 {
+        display: inline-block;
+        width: 40%;
+        height: auto;
+        margin-left: 30px;
+    }
+
+    #item3 {
+        width: 88%;
+    }
+}
+
+/*Mobile*/
+@media only screen and (max-width:767px) {
+    .items {
+        width: 80%;
+    }
 }
