@@ -1,3 +1,3 @@
-# Module-2-Web-Development
+# module2-solution
 Coursera Assignment Solution.
 ~Course => HTML, CSS, and JavaScript for Web Developers.
