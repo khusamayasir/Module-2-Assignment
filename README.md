@@ -9,11 +9,11 @@ Desktop-View:
 #
 Tablet-View:
 
-![image](https://user-images.githubusercontent.com/66178232/162348916-74ad610e-1ebd-4c9f-870e-c9995bbbcf69.png)
+![image](https://user-images.githubusercontent.com/66178232/162349154-1a955c95-251f-4e31-9cf5-503ca750845a.png)
 
 #
 Mobile-View:
 
-![image](https://user-images.githubusercontent.com/66178232/162348856-c15def2f-8042-4bbc-85a3-4abc70802481.png)
+![image](https://user-images.githubusercontent.com/66178232/162349218-38836577-8504-48cb-aee5-9f4234b7f1cf.png)
 
 
