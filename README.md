@@ -4,7 +4,7 @@ Coursera Assignment Solution.
 
 #
 Desktop-View:
-![image](https://user-images.githubusercontent.com/66178232/162348977-bd3fb596-cc88-4b65-9a4b-deadff0bdfa5.png)
+![image](https://user-images.githubusercontent.com/66178232/162349410-5e7f07b6-987a-4ea9-b3c2-f5681a66dd61.png)
 
 #
 Tablet-View:
