@@ -2,6 +2,8 @@
 Coursera Assignment Solution.
 ~Course => HTML, CSS, and JavaScript for Web Developers.
 
+you can check here: https://khusamayasir.github.io/module2-solution/
+
 #
 Desktop-View:
 ![image](https://user-images.githubusercontent.com/66178232/162349410-5e7f07b6-987a-4ea9-b3c2-f5681a66dd61.png)
